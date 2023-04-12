@@ -1,0 +1,129 @@
+/*
+rgb(28, 56, 121)
+rgb(96, 126, 170)
+rgb(234, 227, 210)
+rgb(249, 245, 235)
+Cormorant Garamond
+Sacramento
+Raleway
+*/
+
+body {
+    background-color: rgb(28, 56, 121);
+    margin: 0px;
+    text-align: center;
+    font-size: 1rem;
+}
+.sec1 {
+    background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+.pic {
+    height: 100%;
+    width: 60%;
+}
+.t1 {
+    font-family: 'Raleway', serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.t2 {
+    font-family: 'Raleway', serif;
+    font-size: 3rem;
+}
+
+.skills {
+    background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.skill-row {
+    background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.profile {
+    background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.bottom-container {
+    background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.contact-me {
+    background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.line {
+    width: 80%;
+    margin: auto;
+}
+
+.education {
+   background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.edu {
+   background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.cert {
+   background-color: rgb(249, 245, 235);
+    border-radius: 25px;
+    border: 2px solid rgb(234, 227, 210);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+
+.img {
+    width: 10%;
+    margin: auto;
+    height: 10%;
+}
